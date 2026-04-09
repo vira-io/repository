@@ -2,154 +2,86 @@
   "libraries": [
     {
       "name": "nidus",
-      "description": "Beautiful error handling for HackerScript.",
+      "description": "Beautiful error handling for H#.",
       "versions": {
-        "0.0.1": "https://github.com/virus-repo/nidus/releases/download/v0.0.1/nidus.a"
+        "0.0.1": "https://github.com/vira-io/nidus/releases/download/v0.0.1/nidus.a"
       }
     },
     {
       "name": "cli",
-      "description": "CLI library for HackerScript.",
+      "description": "CLI library for H#.",
       "versions": {
-        "0.0.1": "https://github.com/virus-repo/cli/releases/download/v0.0.1/cli.a",
-        "0.1.0": "https://github.com/virus-repo/cli/releases/download/v0.1.0/cli.a"
+        "0.0.1": "https://github.com/vira-io/cli/releases/download/v0.0.1/cli.a",
+        "0.1.0": "https://github.com/vira-io/cli/releases/download/v0.1.0/cli.a"
       }
     },
     {
       "name": "tui",
-      "description": "TUI library for HackerScript.",
+      "description": "TUI library for H#.",
       "versions": {
-        "0.1.0": "https://github.com/virus-repo/tui/releases/download/v0.1.0/tui.a",
-        "0.2": "https://github.com/virus-repo/tui/releases/download/v0.2/tui.a",
-        "0.3.1": "https://github.com/virus-repo/tui/releases/download/v0.3/tui.a"
-      }
-    },
-    {
-      "name": "yaml",
-      "description": "YAML parser library for HackerScript.",
-      "versions": {
-        "0.1.0": "https://github.com/virus-repo/yaml/releases/download/v0.1.0/yaml.a"
-      }
-    },
-    {
-      "name": "json",
-      "description": "JSON parser library for HackerScript.",
-      "versions": {
-        "0.1.0": "https://github.com/virus-repo/json/releases/download/v0.1.0/json.a"
-      }
-    },
-    {
-      "name": "toml",
-      "description": "TOML parser library for HackerScript.",
-      "versions": {
-        "0.1.0": "https://github.com/virus-repo/toml/releases/download/v0.1.0/toml.a"
-      }
-    },
-    {
-      "name": "hcl-parser",
-      "description": "HCL parser library for HackerScript.",
-      "versions": {
-        "0.1.0": "https://github.com/virus-repo/hcl-parser/releases/download/v0.1.0/hcl.a"
+        "0.1.0": "https://github.com/vira-repo/tui/releases/download/v0.1.0/tui.a",
+        "0.2": "https://github.com/vira-repo/tui/releases/download/v0.2/tui.a",
+        "0.3.1": "https://github.com/vira-repo/tui/releases/download/v0.3/tui.a"
       }
     },
     {
       "name": "hk-parser",
-      "description": "HK parser library for HackerScript.",
+      "description": "HK parser library for H#.",
       "versions": {
-        "0.1.0": "https://github.com/virus-repo/hk-parser/releases/download/v0.1.0/hk-parser.a"
-      }
-    },
-    {
-      "name": "http",
-      "description": "HTTP library for HackerScript.",
-      "versions": {
-        "0.1.0": "https://github.com/virus-repo/http/releases/download/v0.1.0/http.a"
-      }
-    },
-    {
-      "name": "regex",
-      "description": "Regex library for HackerScript.",
-      "versions": {
-        "0.1.0": "https://github.com/virus-repo/regex/releases/download/v0.1.0/regex.a"
-      }
-    },
-    {
-      "name": "crunch",
-      "description": "TUI library inspired ratatui for HackerScript.",
-      "versions": {
-        "0.1.0": "https://github.com/virus-repo/crunch/releases/download/v0.1.0/crunch.a"
+        "0.1.0": "https://github.com/vira-io/hk-parser/releases/download/v0.1.0/hk-parser.a"
       }
     },
     {
       "name": "podman-api",
-      "description": "Podman API library for HackerScript.",
+      "description": "Podman API library for H#.",
       "versions": {
-        "0.1.0": "https://github.com/virus-repo/podman-api/releases/download/v0.1.0/podman-api.a"
+        "0.1.0": "https://github.com/vira-io/podman-api/releases/download/v0.1.0/podman-api.a"
       }
     },
     {
       "name": "lattice",
-      "description": "Prompt Toolkit library inspired for HackerScript.",
+      "description": "Prompt Toolkit library inspired for H#.",
       "versions": {
-        "0.1.0": "https://github.com/virus-repo/lattice/releases/download/v0.1.0/lattice.a"
+        "0.1.0": "https://github.com/vira-io/lattice/releases/download/v0.1.0/lattice.a"
       }
     },
     {
       "name": "HS2D",
-      "description": "HackerScript library for 2d games.",
+      "description": "H# library for 2d games.",
       "versions": {
-        "0.1.0": "https://github.com/virus-repo/HS2D/releases/download/v0.1.0/hs2d.a",
-        "0.2": "https://github.com/virus-repo/HS2D/releases/download/v0.2/hs2d.a",
-        "0.3.1": "https://github.com/virus-repo/HS2D/releases/download/v0.3/hs2d.a"
+        "0.1.0": "https://github.com/vira-io/HS2D/releases/download/v0.1.0/hs2d.a",
+        "0.2": "https://github.com/vira-io/HS2D/releases/download/v0.2/hs2d.a",
+        "0.3.1": "https://github.com/vira-io/HS2D/releases/download/v0.3/hs2d.a"
       }
     },
     {
       "name": "obsidian",
-      "description": "Compiler library for HackerScript.",
+      "description": "Compiler library for H#.",
       "versions": {
-        "0.1.0": "https://github.com/virus-repo/obsidian/releases/download/v0.1.0/obsidian.a",
-        "0.2": "https://github.com/virus-repo/obsidian/releases/download/v0.2/obsidian.a",
-        "0.3.1": "https://github.com/virus-repo/obsidian/releases/download/v0.3/obsidian.a"
+        "0.1.0": "https://github.com/vira-io/obsidian/releases/download/v0.1.0/obsidian.a",
+        "0.2": "https://github.com/vira-io/obsidian/releases/download/v0.2/obsidian.a",
+        "0.3.1": "https://github.com/vira-io/obsidian/releases/download/v0.3/obsidian.a"
       }
     },
     {
       "name": "quill",
-      "description": "LLVM wrapper library for HackerScript.",
+      "description": "LLVM wrapper library for H#.",
       "versions": {
-        "0.1.0": "https://github.com/virus-repo/quill/releases/download/v0.1.0/tui.a",
-        "0.2": "https://github.com/virus-repo/quill/releases/download/v0.2/quill.a",
-        "0.3.1": "https://github.com/virus-repo/quill/releases/download/v0.3/quill.a"
+        "0.1.0": "https://github.com/vira-io/quill/releases/download/v0.1.0/tui.a",
+        "0.2": "https://github.com/vira-io/quill/releases/download/v0.2/quill.a",
+        "0.3.1": "https://github.com/vira-io/quill/releases/download/v0.3/quill.a"
       }
     },
     {
-      "name": "spark",
-      "description": "Parser library for HackerScript.",
-      "versions": {
-        "0.1.0": "https://github.com/virus-repo/spark/releases/download/v0.1.0/spark.a",
-        "0.2": "https://github.com/virus-repo/spark/releases/download/v0.2/spark.a",
-        "0.3.1": "https://github.com/virus-repo/spark/releases/download/v0.3/spark.a"
-      }
+      "name": "example-community-library",
+      "description": "Example community library.",
+      "git": "https://github.com/vira-io/template.git"
     },
     {
-      "name": "containerized",
-      "description": "Library for isolated environments. For HackerScript",
-      "versions": {
-        "0.1.0": "https://github.com/virus-repo/containerized-lib/releases/download/v0.1.0/containerized.a",
-        "0.2": "https://github.com/virus-repo/containerized-lib/releases/download/v0.2/containerized.a",
-        "0.3.1": "https://github.com/virus-repo/containerized-lib/releases/download/v0.3/containerized.a"
-      }
-    },
-    {
-      "name": "XML",
-      "description": "XML parser library for HackerScript.",
-      "versions": {
-        "0.1.0": "https://github.com/virus-repo/XML/releases/download/v0.1.0/xml.a"
-      },
-      {
       "name": "progress-bar",
-      "description": "Progress bars for HackerScript.",
+      "description": "Progress bars for H#.",
       "versions": {
-        "0.1.0": "https://github.com/virus-repo/progress-bar/releases/download/v0.1.0/progress-bar.a"
+        "0.1.0": "https://github.com/vira-io/progress-bar/releases/download/v0.1.0/progress-bar.a"
       }
     }
   ]
