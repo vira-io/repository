@@ -1,88 +1,10 @@
 {
   "libraries": [
     {
-      "name": "nidus",
-      "description": "Beautiful error handling for H#.",
-      "versions": {
-        "0.0.1": "https://github.com/vira-io/nidus/releases/download/v0.0.1/nidus.a"
-      }
+      "nidus": "przykladowe repo.git"
     },
     {
-      "name": "cli",
-      "description": "CLI library for H#.",
-      "versions": {
-        "0.0.1": "https://github.com/vira-io/cli/releases/download/v0.0.1/cli.a",
-        "0.1.0": "https://github.com/vira-io/cli/releases/download/v0.1.0/cli.a"
-      }
-    },
-    {
-      "name": "tui",
-      "description": "TUI library for H#.",
-      "versions": {
-        "0.1.0": "https://github.com/vira-repo/tui/releases/download/v0.1.0/tui.a",
-        "0.2": "https://github.com/vira-repo/tui/releases/download/v0.2/tui.a",
-        "0.3.1": "https://github.com/vira-repo/tui/releases/download/v0.3/tui.a"
-      }
-    },
-    {
-      "name": "hk-parser",
-      "description": "HK parser library for H#.",
-      "versions": {
-        "0.1.0": "https://github.com/vira-io/hk-parser/releases/download/v0.1.0/hk-parser.a"
-      }
-    },
-    {
-      "name": "podman-api",
-      "description": "Podman API library for H#.",
-      "versions": {
-        "0.1.0": "https://github.com/vira-io/podman-api/releases/download/v0.1.0/podman-api.a"
-      }
-    },
-    {
-      "name": "lattice",
-      "description": "Prompt Toolkit library inspired for H#.",
-      "versions": {
-        "0.1.0": "https://github.com/vira-io/lattice/releases/download/v0.1.0/lattice.a"
-      }
-    },
-    {
-      "name": "HS2D",
-      "description": "H# library for 2d games.",
-      "versions": {
-        "0.1.0": "https://github.com/vira-io/HS2D/releases/download/v0.1.0/hs2d.a",
-        "0.2": "https://github.com/vira-io/HS2D/releases/download/v0.2/hs2d.a",
-        "0.3.1": "https://github.com/vira-io/HS2D/releases/download/v0.3/hs2d.a"
-      }
-    },
-    {
-      "name": "obsidian",
-      "description": "Compiler library for H#.",
-      "versions": {
-        "0.1.0": "https://github.com/vira-io/obsidian/releases/download/v0.1.0/obsidian.a",
-        "0.2": "https://github.com/vira-io/obsidian/releases/download/v0.2/obsidian.a",
-        "0.3.1": "https://github.com/vira-io/obsidian/releases/download/v0.3/obsidian.a"
-      }
-    },
-    {
-      "name": "quill",
-      "description": "LLVM wrapper library for H#.",
-      "versions": {
-        "0.1.0": "https://github.com/vira-io/quill/releases/download/v0.1.0/tui.a",
-        "0.2": "https://github.com/vira-io/quill/releases/download/v0.2/quill.a",
-        "0.3.1": "https://github.com/vira-io/quill/releases/download/v0.3/quill.a"
-      }
-    },
-    {
-      "name": "example-community-library",
-      "description": "Example community library.",
-      "git": "https://github.com/vira-io/template.git"
-    },
-    {
-      "name": "progress-bar",
-      "description": "Progress bars for H#.",
-      "versions": {
-        "0.1.0": "https://github.com/vira-io/progress-bar/releases/download/v0.1.0/progress-bar.a"
-      }
+      "nazwa biblioteki": "przykladowe repo.git"
     }
   ]
 }
