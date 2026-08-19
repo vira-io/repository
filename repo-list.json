@@ -1,10 +1,45 @@
 {
   "libraries": [
     {
-      "nidus": "przykladowe repo.git"
+      "name": "nidus",
+      "description": "Przykładowa biblioteka nidus",
+      "repository": "https://github.com/przyklad/nidus.git",
+      "versions": []
     },
     {
-      "nazwa biblioteki": "przykladowe repo.git"
+      "name": "hk-parser",
+      "description": "Library for .hk format.",
+      "repository": "https://github.com/HackerOS-Linux-System/hk-parser.git",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "url": "https://github.com/HackerOS-Linux-System/hk-parser/releases/download/v0.3.2/libhk_parser.a"
+        },
+        {
+          "version": "0.2.0",
+          "url": "https://github.com/HackerOS-Linux-System/hk-parser/releases/download/v0.3.2/libhk_parser.a"
+        },
+        {
+          "version": "0.2.1",
+          "url": "https://github.com/HackerOS-Linux-System/hk-parser/releases/download/v0.3.2/libhk_parser.a"
+        },
+        {
+          "version": "0.3.0",
+          "url": "https://github.com/HackerOS-Linux-System/hk-parser/releases/download/v0.3.0/libhk_parser.a"
+        },
+        {
+          "version": "0.3.1",
+          "url": "https://github.com/HackerOS-Linux-System/hk-parser/releases/download/v0.3.1/libhk_parser.a"
+        },
+        {
+          "version": "0.3.2",
+          "url": "https://github.com/HackerOS-Linux-System/hk-parser/releases/download/v0.3.2/libhk_parser.a"
+        },
+        {
+          "version": "0.4.0",
+          "url": "https://github.com/HackerOS-Linux-System/hk-parser/releases/download/v0.4.0/libhk_parser.a"
+        }
+      ]
     }
   ]
 }
