@@ -1,10 +1,10 @@
 {
   "libraries": [
     {
-      "name": "nidus",
-      "description": " nidus",
+      "name": "Pretty-Error",
+      "description": "A library for Hacker Script to show errors nicely.",
       "type": "git",
-      "lib": ""
+      "lib": "https://github.com/vira-io/Pretty-Error.git"
     },
     {
       "name": "hk-parser",
