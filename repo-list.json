@@ -11,6 +11,6 @@
       "description": "Ladne, kolorowe wyswietlanie bledow HackerScript (styl rustc/Elm)",
       "type": "git",
       "lib": "https://github.com/vira-io/Pretty-Error.git"
-    }
+    }
   ]
 }
